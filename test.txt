@@ -1,0 +1,61 @@
+[Spectrum]
+target = 
+target norm = 
+telluric = 
+resolution = 28000
+region number = 1
+region1 = INDEF
+region1 norm = INDEF
+
+[Cloud parameters]
+n_comp = 1
+helio. vel. = 0.0
+doppler b = 1.0
+
+[C2 parameters]
+band = AX00
+p(2) = Used
+p(4) = Used
+p(6) = Used
+p(8) = Used
+p(10) = Used
+p(12) = Used
+p(14) = Used
+p(16) = Used
+p(18) = Used
+p(20) = Used
+p(22) = Used
+p(24) = Used
+p(26) = Used
+p(28) = Used
+q(2) = Used
+q(4) = Used
+q(6) = Used
+q(8) = Used
+q(10) = Used
+q(12) = Used
+q(14) = Used
+q(16) = Used
+q(18) = Used
+q(20) = Used
+q(22) = Used
+q(24) = Used
+q(26) = Used
+q(28) = Used
+r(0) = Used
+r(2) = Used
+r(4) = Used
+r(6) = Used
+r(8) = Used
+r(10) = Used
+r(12) = Used
+r(14) = Used
+r(16) = Used
+r(18) = Used
+r(20) = Used
+r(22) = Used
+r(24) = Used
+r(26) = Used
+r(28) = Used
+r(30) = Used
+
